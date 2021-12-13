@@ -1,6 +1,6 @@
 Hi 👋, I'm [matt17du](https://github.com/matt17du)!
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=matt17du&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=imattdu&show_icons=true)
 
 
 
