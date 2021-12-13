@@ -1,4 +1,4 @@
-Hi 👋, I'm [matt17du](https://github.com/matt17du)!
+Hi 👋, I'm [imattdu](https://github.com/imattdu)!
 
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=imattdu&show_icons=true)
  -->
