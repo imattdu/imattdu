@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>升級 on Hugo Bootstrap</title>
+    <link>/zh-tw/tags/%E5%8D%87%E7%B4%9A/</link>
+    <description>Recent content in 升級 on Hugo Bootstrap</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2016-{year} Razon Yang. All Rights Reserved.</copyright>
+    <lastBuildDate>Sat, 04 Dec 2021 10:43:39 +0800</lastBuildDate><atom:link href="/zh-tw/tags/%E5%8D%87%E7%B4%9A/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>快速入門</title>
+      <link>/zh-tw/posts/getting-started/</link>
+      <pubDate>Sat, 04 Dec 2021 10:43:39 +0800</pubDate>
+      
+      <guid>/zh-tw/posts/getting-started/</guid>
+      <description>&lt;p&gt;本文將介紹如何安裝、升級本主題，以及書寫新的文章。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

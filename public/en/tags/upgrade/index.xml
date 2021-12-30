@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Upgrade on Hugo Bootstrap</title>
+    <link>/en/tags/upgrade/</link>
+    <description>Recent content in Upgrade on Hugo Bootstrap</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2016-{year} Razon Yang. All Rights Reserved.</copyright>
+    <lastBuildDate>Sat, 04 Dec 2021 10:43:39 +0800</lastBuildDate><atom:link href="/en/tags/upgrade/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started</title>
+      <link>/en/posts/getting-started/</link>
+      <pubDate>Sat, 04 Dec 2021 10:43:39 +0800</pubDate>
+      
+      <guid>/en/posts/getting-started/</guid>
+      <description>&lt;p&gt;This article describes how to install, upgrade the theme, and write new articles.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
