@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=imattdu)](https://git.io/typing-svg)
-![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go&logoColor=367b99)
+
 
 
 
