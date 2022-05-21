@@ -8,11 +8,11 @@ Hi 👋, I'm [imattdu](https://github.com/imattdu)!
 
 
 
-
+<!---
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=imattdu&theme=minimal" />
 </div>
-
+--->
 
 <!---
 matt17du/matt17du is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
