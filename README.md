@@ -1,5 +1,8 @@
-Hi 👋, I'm [imattdu](https://github.com/imattdu)!
-
+- Hi 👋, I'm [imattdu](https://github.com/imattdu)!
+- 👀 I’m interested in java
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=imattdu&show_icons=true)
  -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=matt)](https://git.io/typing-svg)
