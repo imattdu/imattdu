@@ -11,23 +11,7 @@
 
 
 
-<!---
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=imattdu&theme=minimal" />
-</div>
---->
-
-<!---
-matt17du/matt17du is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-- 👋 Hi, I’m @matt
-- 👀 I’m interested in java
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imattdu)](https://github.com/anuraghazra/github-readme-stats)
+
