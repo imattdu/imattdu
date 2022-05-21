@@ -1,8 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=matt)](https://git.io/typing-svg)
-- Hi 👋, I'm [imattdu](https://github.com/imattdu)!
-- 👀 I’m interested in ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go&logoColor=367b99)
-- 🌱 I’m currently learning 
-- 📫 How to reach me matt17@qq.com
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=imattdu)](https://git.io/typing-svg)
+![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go&logoColor=367b99)
 
 
 
